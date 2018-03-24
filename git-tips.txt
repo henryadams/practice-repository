@@ -14,7 +14,7 @@ to pull the latest code from the online repository. Remember to run the command 
 
 Modify any files you like in the folder practice-repository. Type
 	git status
-to see which files you have changed. If you have added any new files, then you must type
+to see which files you have changed. If you have modified any files, or added new files, then you must type
 	git add [filename]
 to tell git to start paying attention to this file. If you have removed any files and no longer want git to keep track of them, type
 	git rm [filename]
